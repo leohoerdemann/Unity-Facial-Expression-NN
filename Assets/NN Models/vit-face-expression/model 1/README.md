@@ -1,1 +1,0 @@
-model courtesy of https://huggingface.co/trpakov/vit-face-expression

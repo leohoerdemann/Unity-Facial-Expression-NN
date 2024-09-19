@@ -1,0 +1,1 @@
+model from https://github.com/onnx/models/tree/main/validated/vision/body_analysis/ultraface
